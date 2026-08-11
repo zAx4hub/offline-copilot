@@ -1,0 +1,7 @@
+Offline Copilot — 60s demo
+
+Pain: Local coding assistant runtime (indexing + protocol; mock model ok)
+
+npm install && npm test && npm run demo
+
+Credits: zAx4hub

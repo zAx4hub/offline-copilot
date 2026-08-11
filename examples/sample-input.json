@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "text": "Local coding assistant runtime (indexing + protocol; mock model ok)"
+    },
+    {
+      "text": "zAx4hub fixture"
+    }
+  ],
+  "threshold": 0.25
+}
